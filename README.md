@@ -1,11 +1,11 @@
-# Lansdowne Law & Associates — Website
+# Lansdowne Law Center — Website
 
-This repository contains the source code for the **Lansdowne Law & Associates** website, a modern, responsive law firm site designed to feel professional, credible, and approachable.
+This repository contains the source code for the **Lansdowne Law Center ** website, a modern, responsive law firm site designed to feel professional, credible, and approachable.
 
 The site emphasizes clarity, clean typography, and subtle motion to create a polished experience without distracting from content or trust-building.
 
 🔗 **Live site:**  
-https://lansdowne-law-associates-website.vercel.app/
+https://lansdowne-law-center-website.vercel.app/
 
 ---
 
