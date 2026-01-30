@@ -7,8 +7,8 @@ import { Label } from "@/components/ui/label"
 import { Card, CardContent } from "@/components/ui/card"
 
 export const metadata: Metadata = {
-    title: "Contact Us | Lansdowne Law Associates",
-    description: "Contact Lansdowne Law Associates in Lansdowne, PA.",
+    title: "Contact Us | Lansdowne Law Center",
+    description: "Contact Lansdowne Law Center in Lansdowne, PA.",
 }
 
 export default function ContactPage() {

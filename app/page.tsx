@@ -47,12 +47,12 @@ export default function Home() {
       <section className="py-20 bg-white">
         <div className="container px-4 max-w-5xl mx-auto">
           <ScrollReveal className="text-center mb-16 space-y-4">
-            <h2 className="text-3xl font-bold font-serif text-foreground">Why Choose Lansdowne Law Associates?</h2>
+            <h2 className="text-3xl font-bold font-serif text-foreground">Why Choose Lansdowne Law Center?</h2>
             <div className="w-20 h-1 bg-primary mx-auto rounded-full" />
           </ScrollReveal>
 
           <p className="text-muted-foreground max-w-2xl mx-auto text-center">
-            Lansdowne Law Associates is a fully-staffed law office located in Lansdowne since 1966. The firm is a general practice firm representing individuals and small businesses, proprietorships, corporations, and insurance companies.
+            Lansdowne Law Center is a fully-staffed law office located in Lansdowne since 1966. The firm is a general practice firm representing individuals and small businesses, proprietorships, corporations, and insurance companies.
           </p>
           <p className="text-muted-foreground max-w-2xl mx-auto pt-2 text-center mb-16">
             We represent the CLC Prepaid Legal Services Plan covering employers like Verizon and SAP, and are approved lawyers for the Military Officers Association of America.
@@ -232,7 +232,7 @@ export default function Home() {
         <ScrollReveal className="container px-4 text-center space-y-8 mx-auto max-w-4xl">
           <h2 className="text-3xl md:text-4xl font-bold font-serif">Ready to Discuss Your Case?</h2>
           <p className="text-primary-foreground/90 max-w-xl mx-auto text-lg leading-relaxed">
-            Contact Lansdowne Law Associates today to schedule a confidential consultation.
+            Contact Lansdowne Law Center today to schedule a confidential consultation.
           </p>
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center pt-4">
             <Button asChild size="lg" variant="secondary" className="px-8 font-semibold shadow-lg">

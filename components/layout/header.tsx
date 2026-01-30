@@ -26,7 +26,7 @@ export function Header() {
             <Scale className="h-8 w-8 text-primary shrink-0" />
             <div className="flex flex-col">
               <span className="text-xl font-bold font-serif tracking-tight text-primary leading-tight">
-                Lansdowne Law Associates
+                Lansdowne Law Center
               </span>
               <span className="text-xs font-medium text-muted-foreground leading-tight">
                 (610) 623-3445

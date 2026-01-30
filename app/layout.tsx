@@ -23,7 +23,7 @@ import { Footer } from "@/components/layout/footer"
 import { SmoothScroll } from "@/components/ui/smooth-scroll"
 
 export const metadata: Metadata = {
-  title: "Lansdowne Law Associates | Annual Review",
+  title: "Lansdowne Law Center | Annual Review",
   description: "A Full-Service Pennsylvania Law Firm serving Lansdowne and surrounding areas since 1966.",
 };
 

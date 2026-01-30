@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button"
 import { ScrollReveal } from "@/components/ui/scroll-reveal"
 
 export const metadata: Metadata = {
-    title: "Practice Areas | Lansdowne Law Associates",
+    title: "Practice Areas | Lansdowne Law Center",
     description: "Comprehensive legal services including Family Law, Business Law, Real Estate, Estate Planning, and more.",
 }
 

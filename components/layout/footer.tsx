@@ -9,7 +9,7 @@ export function Footer() {
                     <div className="space-y-4 md:max-w-xs">
                         <Link href="/" className="flex items-center space-x-2">
                             <Scale className="h-6 w-6 text-primary" />
-                            <span className="text-lg font-bold font-serif text-primary">Lansdowne Law Associates</span>
+                            <span className="text-lg font-bold font-serif text-primary">Lansdowne Law Center</span>
                         </Link>
                         <p className="text-sm text-muted-foreground leading-relaxed">
                             A fully-staffed Pennsylvania law firm located in Lansdowne since 1966. Representing individuals, small businesses, and corporations.
@@ -54,7 +54,7 @@ export function Footer() {
                 </div>
 
                 <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t pt-8 md:flex-row text-xs text-muted-foreground">
-                    <p>&copy; {new Date().getFullYear()} Lansdowne Law Associates. All rights reserved.</p>
+                    <p>&copy; {new Date().getFullYear()} Lansdowne Law Center. All rights reserved.</p>
                     <div className="flex gap-4">
                         <Link href="#" className="hover:underline">Privacy Policy</Link>
                         <Link href="#" className="hover:underline">Legal Disclaimer</Link>

@@ -2,7 +2,7 @@ import { Metadata } from "next"
 import { ScrollReveal } from "@/components/ui/scroll-reveal"
 
 export const metadata: Metadata = {
-    title: "About Our Firm | Lansdowne Law Associates",
+    title: "About Our Firm | Lansdowne Law Center",
     description: "Learn about our history and our team of dedicated attorneys serving Lansdowne since 1966.",
 }
 
@@ -19,7 +19,7 @@ export default function AboutPage() {
                 <div className="prose prose-lg dark:prose-invert mx-auto text-muted-foreground leading-loose">
                     <ScrollReveal delay={0.1}>
                         <p className="text-xl font-medium text-foreground text-center">
-                            Lansdowne Law Associates has been a cornerstone of the Lansdowne legal community since 1966.
+                            Lansdowne Law Center has been a cornerstone of the Lansdowne legal community since 1966.
                         </p>
                     </ScrollReveal>
                     <p className="mt-6">
