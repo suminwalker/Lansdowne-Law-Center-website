@@ -47,7 +47,7 @@ export function Header() {
             </Link>
           ))}
           <Button asChild>
-            <Link href="/contact">Free Consultation</Link>
+            <Link href="/consultation">Free Consultation</Link>
           </Button>
         </nav>
 
@@ -81,7 +81,7 @@ export function Header() {
               <div className="pt-16">
                 <SheetClose asChild>
                   <Button asChild className="w-full py-10 text-xl rounded-xl shadow-lg">
-                    <Link href="/contact">Free Consultation</Link>
+                    <Link href="/consultation">Free Consultation</Link>
                   </Button>
                 </SheetClose>
               </div>
