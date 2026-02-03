@@ -15,7 +15,7 @@ export default function Home() {
           className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat transition-transform duration-1000 scale-105"
           style={{
             backgroundImage: "url('/images/hero-justice.png')",
-            filter: "brightness(0.55) contrast(1.1)"
+            filter: "brightness(0.95) contrast(1.1)"
           }}
         />
         {/* Supplemental Overlay for Content Focus */}
@@ -39,6 +39,11 @@ export default function Home() {
                 <Link href="/practices">View Practice Areas</Link>
               </Button>
             </div>
+            <p className="pt-8 text-4xl font-semibold text-white/90">
+              <a href="tel:610-623-3445" className="hover:text-white transition-colors">
+                (610) 623-3445
+              </a>
+            </p>
           </ScrollReveal>
         </div>
       </section>

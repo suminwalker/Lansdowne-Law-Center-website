@@ -28,9 +28,6 @@ export function Header() {
               <span className="text-xl font-bold font-serif tracking-tight text-primary leading-tight">
                 Lansdowne Law Center
               </span>
-              <span className="text-xs font-medium text-muted-foreground leading-tight">
-                (610) 623-3445
-              </span>
             </div>
           </Link>
         </div>
